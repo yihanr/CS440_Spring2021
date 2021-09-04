@@ -1,0 +1,12 @@
+---
+:id: 66041063
+:submitters:
+- :name: Yihan  Ruan
+  :email: yihanr2@illinois.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-02-22 09:16:15.442719000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-02-22 01:16:15.442719000 Z
+:status: processed
+:score: 100.0
